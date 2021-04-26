@@ -2,7 +2,7 @@
 bash countdown timer in seconds for displaying in terminal
 
 ## Installation:
-`git clone --depth=1 https://github.com/SealedJoy/seconds-countdown-timer && cp seconds-countdown-timer/countdown /usr/local/bin && rm -rf seconds-countdown-timer`
+`git clone --depth=1 https://github.com/SealedJoy/seconds-countdown-timer && cp seconds-countdown-timer/countdown ~/.local/bin && rm -rf seconds-countdown-timer`
 
 ## Usage:
 `countdown`  - prompts user for seconds to countdown from

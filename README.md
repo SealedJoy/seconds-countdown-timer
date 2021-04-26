@@ -6,5 +6,6 @@ countdown in seconds displayed in terminal
 
 ## Usage:
 `countdown`  - prompts user for seconds to countdown from
+
 `countdown [SECONDS]`  - immediately start timer with $SECONDS on the clock
 

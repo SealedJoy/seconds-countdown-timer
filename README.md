@@ -1,5 +1,5 @@
 # seconds-countdown-timer
-countdown in seconds displayed in terminal
+bash countdown timer in seconds for displaying in terminal
 
 ## Installation:
 `git clone --depth=1 https://github.com/SealedJoy/seconds-countdown-timer && cp seconds-countdown-timer/coundown /usr/local/bin`
